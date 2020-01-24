@@ -35,7 +35,7 @@
 
 - 文档: [说明文档](https://langhsu.github.io/mblog/#/)
 - 官网: [官网地址](http://www.mtons.com)
-- QQ交流群：378433412  - 主题联系 QQ：858874421
+- QQ交流群：378433412  - 主题作者联系 QQ：858874421
     
 ### 版本(3.5)更新内容：
     1. 文件存储目录可配置, 见 site.location, 默认为 user.dir
